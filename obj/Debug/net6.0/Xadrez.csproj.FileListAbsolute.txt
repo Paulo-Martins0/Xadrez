@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\bin\Debug\net6.0\Xadrez.exe
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\bin\Debug\net6.0\Xadrez.deps.json
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\bin\Debug\net6.0\Xadrez.runtimeconfig.json
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\bin\Debug\net6.0\Xadrez.dll
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\bin\Debug\net6.0\Xadrez.pdb
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\Xadrez.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfo.cs
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\Xadrez.dll
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\refint\Xadrez.dll
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\Xadrez.pdb
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\Xadrez.genruntimeconfig.cache
+C:\Users\T-Gamer\Downloads\LINGUAGENS DE  CODIGOS\CSharp\Xadrez\obj\Debug\net6.0\ref\Xadrez.dll
